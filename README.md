@@ -1,5 +1,9 @@
 # MotivationalAlarm
+Disclaimer: Though I think it will work 100% of the time, please don't use it as your main alarm yet. I am not responsible if you miss your assignment/flight/solar eclipse.
+
 Wake up pumped up with your computer waking up before you, setting volume and brightness to max and playing a motivational video full screen.
+
+Note: If using on a laptop, it is recommended you keep the charger plugged in. Also, don't close the lid unless connected to an external display.
 
 1. Open your browser (new tab is fine)
 2. Open the terminal
@@ -26,4 +30,7 @@ Your computer will sleep in about 30 seconds.
 To add:
 Spotify playlists
 Hidden passwords
+
+Bugs:
+Won't work if alarm is set upto 3 minutes in the future.
 
