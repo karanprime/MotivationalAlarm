@@ -11,7 +11,7 @@ Wake up pumped up with your computer waking up before you, setting volume and br
 
 5. It will say "Alarm set for time and date"
 6. A settings pane will open. 
-  * Uncheck require password on wake up if you have a wake up password. 
+  * Uncheck "Require password on wake up" box if you have a wake up password. 
   * Click on Turn off password and then Keep using Keychain in the dialog boxes that appear.
 7. Close the settings pane.
 
@@ -20,6 +20,8 @@ Your computer will sleep in about 30 seconds.
 * It will wake up a few seconds before the set alarm.
 * It will override your volume settings to 10 (full).
 * It will play a motivational video . (You can pick one using the vid variable where vid is the youtube video id)
+
+8. After waking up, the settings pane will open again. To again lock your computer on sleep, just tick the "Require password on wake up" box. 
 
 To add:
 Spotify playlists
